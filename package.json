@@ -1,5 +1,5 @@
 {
-  "name": "micromatch",
+  "name": "@yadickson/micromatch",
   "description": "Glob matching for javascript/node.js. A replacement and faster alternative to minimatch and multimatch.",
   "version": "4.0.9",
   "homepage": "https://github.com/micromatch/micromatch",
